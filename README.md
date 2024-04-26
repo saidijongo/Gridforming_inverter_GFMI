@@ -1,2 +1,6 @@
 # Gridforming_inverter_GFMI
-Control techniques comparison. Droop control, Virtual inertia, virtual impendance
+
+Inverter based reseources (IBR)
+Control techniques comparison. Droop control, Virtual inertia, virtual impendance.
+
+
