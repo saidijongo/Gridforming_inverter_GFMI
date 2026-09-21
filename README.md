@@ -10,3 +10,5 @@ https://kr.mathworks.com/matlabcentral/fileexchange/183868-three-phase-grid-conn
 
 Grid connected
 https://github.com/ATayebi/GridFormingConverters
+
+https://in.mathworks.com/matlabcentral/answers/2128186-did-anyone-has-the-slip-mode-frequency-shift-model-for-hybrid-islanding-method
