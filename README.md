@@ -13,3 +13,4 @@ https://github.com/ATayebi/GridFormingConverters
 
 https://in.mathworks.com/matlabcentral/answers/2128186-did-anyone-has-the-slip-mode-frequency-shift-model-for-hybrid-islanding-method
 
+https://www.cku.ac.kr/bbs/oia/1143/356202/artclView.do
